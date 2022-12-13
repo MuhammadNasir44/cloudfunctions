@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982156342323",
+    "project_id": "cloudfun-828a0",
+    "storage_bucket": "cloudfun-828a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982156342323:android:c09aa112da3c977cecdf46",
+        "android_client_info": {
+          "package_name": "com.example.cloudfunleanrning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982156342323-ub0cr38pmdcngfjma99c8s4hkmjgh0v8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALYV22kpwLrCFqCq2T5J2Hsr4Q-TYhpj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982156342323-ub0cr38pmdcngfjma99c8s4hkmjgh0v8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
